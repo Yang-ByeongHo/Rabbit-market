@@ -1,0 +1,29 @@
+* {
+    font-family: inherit;
+    font-size: inherit;
+  }
+
+.button {
+    background-color: pink;
+    color: black;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border: none;
+  }
+  
+.button:hover, .button:active {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.left {
+    text-align: left;
+    width: 220px;
+    margin: auto auto;
+  }
+
+.ferment {
+margin-top: 100px;
+}

@@ -1,0 +1,23 @@
+.logo{
+width: 100px;
+height: auto;
+}
+
+.search{
+width: 400px;
+height: 20px;
+}
+
+.spacer {
+margin-bottom: 20px;
+}
+
+.submit{
+width: 60px;
+height: 27px;
+}
+
+.header {
+    background-color: pink;
+  }
+  

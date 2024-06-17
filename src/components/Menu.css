@@ -1,0 +1,25 @@
+.table{
+    border-collapse: collapse; /* 안쪽 경계선을 없앰 */
+    width: 100%;
+    text-align: center;
+}
+
+.tr1{
+    border-left: 0;
+    border-right: 0;
+}
+
+.tr2{
+    background-color: pink;
+}
+
+td{
+    padding: 8px;   
+}
+td:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+button{
+    cursor: pointer;
+}
